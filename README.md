@@ -8,7 +8,7 @@
 
 ## 目录
 
-* [关于支持第三方应用跳转任意页面的一些思考]((https://github.com/zhangwilling/blog/issues/5)
+* [关于支持第三方应用跳转任意页面的一些思考](https://github.com/zhangwilling/blog/issues/5)
 * [H5与Native双向通讯解决方案](https://github.com/zhangwilling/blog/issues/4)
 * [对现代前端SPA应用的一些思考-以react+redux/mobx技术栈为例](https://github.com/zhangwilling/blog/issues/3)
 * [开发一个基于React Router4模块化的路由管理方案](https://github.com/zhangwilling/blog/issues/2)

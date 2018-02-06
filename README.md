@@ -7,6 +7,7 @@
 现在觉得还是开放出来和别人一起交流比较好，后面会陆续搬运我本地的技术总结 :)
 
 ## 目录
+* [H5与Native双向通讯解决方案](https://github.com/zhangwilling/blog/issues/4)
 
 * [对现代前端SPA应用的一些思考-以react+redux/mobx技术栈为例](https://github.com/zhangwilling/blog/issues/3)
 

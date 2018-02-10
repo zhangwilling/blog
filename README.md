@@ -7,6 +7,7 @@
 现在觉得还是开放出来和别人一起交流比较好，后面会陆续搬运我本地的技术总结 :)
 
 ## 目录
+* [git之多项目并行解决方案](https://github.com/zhangwilling/blog/issues/7)
 * [redux的优劣 vs mobx](https://github.com/zhangwilling/blog/issues/6)
 * [关于支持第三方应用跳转任意页面的一些思考](https://github.com/zhangwilling/blog/issues/5)
 * [H5与Native双向通讯解决方案](https://github.com/zhangwilling/blog/issues/4)

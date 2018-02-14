@@ -33,7 +33,9 @@
 
 ## why issue blog
 
-还是觉得issue blog更加方便
+还是觉得issue blog更加方便。
+
+另外，订阅点watch即可，不需要star。比起star，我更希望是在issue下和别人讨论问题，帮助我纠正错误的想法。
 
 ## 后言
 

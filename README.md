@@ -7,6 +7,8 @@
 现在觉得还是开放出来和别人一起交流比较好，后面会陆续搬运我本地的技术总结 :)
 
 ## 目录
+* [让自己和团队都受益的开发方式--需求高保真、沉淀技术](https://github.com/zhangwilling/blog/issues/10)
+* [做自己认为正确的](https://github.com/zhangwilling/blog/issues/9)
 * [git之多项目并行解决方案](https://github.com/zhangwilling/blog/issues/7)
 * [redux的优劣 vs mobx](https://github.com/zhangwilling/blog/issues/6)
 * [关于支持第三方应用跳转任意页面的一些思考](https://github.com/zhangwilling/blog/issues/5)

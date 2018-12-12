@@ -7,6 +7,9 @@
 现在觉得还是开放出来和别人一起交流比较好，后面会陆续搬运我本地的技术总结 :)
 
 ## 目录
+
+* [徐飞老师《组件化or分层》一文引发的一连串思考 ](https://github.com/zhangwilling/blog/issues/13)
+* [项目思考 - 旁观一次项目风险](https://github.com/zhangwilling/blog/issues/12)
 * [让自己和团队都受益的开发方式--需求高保真、沉淀技术](https://github.com/zhangwilling/blog/issues/10)
 * [做自己认为正确的](https://github.com/zhangwilling/blog/issues/9)
 * [git之多项目并行解决方案](https://github.com/zhangwilling/blog/issues/7)

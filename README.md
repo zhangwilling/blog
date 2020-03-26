@@ -8,6 +8,7 @@
 
 ## 目录
 
+* [为规范文件的命名的风格写了个 Webpack Plugin (check-case-webpack-plugin)](https://github.com/zhangwilling/blog/issues/15)
 * [徐飞老师《组件化or分层》一文引发的一连串思考 ](https://github.com/zhangwilling/blog/issues/13)
 * [项目思考 - 旁观一次项目风险](https://github.com/zhangwilling/blog/issues/12)
 * [让自己和团队都受益的开发方式--需求高保真、沉淀技术](https://github.com/zhangwilling/blog/issues/10)

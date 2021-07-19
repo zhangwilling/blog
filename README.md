@@ -1,15 +1,3 @@
-## 关于
-
-一只94年的coding菜鸡
-
-从前都是将技术总结记在本地
-
-现在觉得还是开放出来和别人一起交流比较好，后面会再搬运一些本地的技术总结 :) 
-
-上面一句真的这是一个 FLAG 实际情况
-
-![实际情况](https://user-images.githubusercontent.com/20391734/77719511-63920600-7020-11ea-8ad4-55ae783ee523.jpg)
-
 ## 目录
 
 * [为规范文件的命名的风格写了个 Webpack Plugin (check-case-webpack-plugin)](https://github.com/zhangwilling/blog/issues/15)
